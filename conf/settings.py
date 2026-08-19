@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     #ichki
     'book',
     'car',
+    'cbv_genericapiview',
+    
 ]
 
 MIDDLEWARE = [
