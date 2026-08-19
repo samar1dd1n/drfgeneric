@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     #ichki
     'book',
+    'car',
 ]
 
 MIDDLEWARE = [
